@@ -126,6 +126,7 @@ The dataset contains travel agency transaction records, including:
 - 📊 Travel_Agency_Dashboard.pbix
 - 📄 Travel_Agency_Dashboard.pdf
 - 📑 Dataset.xlsx
+- 📝 Case.txt
 
 ---
 
