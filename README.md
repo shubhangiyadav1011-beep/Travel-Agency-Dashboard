@@ -135,7 +135,3 @@ The dataset contains travel agency transaction records, including:
 This dashboard enables travel businesses to monitor performance, identify profitable regions, understand customer preferences, optimize operations, and make informed business decisions through interactive data visualization.
 
 ---
-
-## 👩‍💻 Developed By
-
-**Shubhangi Yadav**
